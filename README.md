@@ -1,0 +1,1 @@
+# Storage-Static-variable-in-C
